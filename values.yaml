@@ -1,0 +1,3 @@
+tenants:
+  - name: tenant-1
+    groups: ["/tenant-1/ro","/tenant-1/rw"]
