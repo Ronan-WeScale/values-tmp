@@ -1,6 +1,6 @@
 observatorium:
   tenants:
     - name: hprod-mi-data-tooling
-      groups: ["/admin","/tenant-1/rw"]
+      groups: ["/admin","/mi-data-tooling/grafana/prod-RW"]
     - name: dso
       groups: ["/security"]
