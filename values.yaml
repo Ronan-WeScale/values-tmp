@@ -2,3 +2,5 @@ observatorium:
   tenants:
     - name: hprod-mi-data-tooling
       groups: ["/admin","/tenant-1/rw"]
+    - name: dso
+      groups: ["/dso-admin"]
