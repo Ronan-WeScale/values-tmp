@@ -1,4 +1,4 @@
 observatorium:
   tenants:
-    - name: tenant-1
-      groups: ["/tenant-1/ro","/tenant-1/rw"]
+    - name: hprod-mi-data-tooling
+      groups: ["/admin","/tenant-1/rw"]
