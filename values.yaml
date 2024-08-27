@@ -2,6 +2,10 @@ observatorium:
   tenants:
     - name: hprod-mi-data-tooling
       groups: ["/admin","/mi-data-tooling/grafana/hprod-RW"]
+    - name: hprod-mi-basegun
+      groups: ["/admin","/mi-basegun/grafana/hprod-RW"]
+    - name: prod-mi-basegun
+      groups: ["/admin","/mi-basegun/grafana/prod-RW"]
     - name: hprod-mi-siv
       groups: ["/admin","/mi-siv/grafana/hprod-RW"]
     - name: dso
