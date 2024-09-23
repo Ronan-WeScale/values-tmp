@@ -1,0 +1,6 @@
+global:
+  tenants:
+    - name: prod-infra
+      groups:
+        - /admin
+      repoUrl: https://github.com/Ronan-WeScale/grafana-dynamic.git
