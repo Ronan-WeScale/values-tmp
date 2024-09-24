@@ -7,4 +7,4 @@ observatorium:
     - name: dso
       groups: ["/security"]
     - name: hprod-infra
-      groups: ["/security"]
+      groups: ["/admin"]
