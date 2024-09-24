@@ -6,3 +6,5 @@ observatorium:
       groups: ["/admin","/mi-siv/grafana/hprod-RW"]
     - name: dso
       groups: ["/security"]
+    - name: hprod-infra
+      groups: ["/security"]
