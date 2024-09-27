@@ -4,3 +4,7 @@ global:
       groups:
         - /admin
       repoUrl: https://github.com/Ronan-WeScale/grafana-dynamic.git
+    - name: prod-mi-tobi
+      groups:
+        - /admin
+      repoUrl: https://github.com/Ronan-WeScale/grafana-dynamic.git
