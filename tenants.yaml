@@ -8,3 +8,7 @@ global:
       groups:
         - /admin
       repoUrl: https://github.com/Ronan-WeScale/grafana-dynamic.git
+    - name: prod-dso
+      groups:
+        - /admin
+      repoUrl: https://github.com/cloud-pi-native/socle/tree/feat/gitops-observability/
