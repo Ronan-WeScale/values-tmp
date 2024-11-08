@@ -15,4 +15,4 @@ global:
         - /admin
       repoUrl: 
         - https://github.com/Ronan-WeScale/grafana-dynamic.git
-        - https://github.com/cloud-pi-native/socle/tree/feat/gitops-observability/
+        - https://github.com/cloud-pi-native/socle.git
